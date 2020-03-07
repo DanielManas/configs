@@ -1,0 +1,2 @@
+<Display VRAMSize="16"/>
+<VideoCapture fps="25" options="ac_enabled=false"/>
