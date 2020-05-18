@@ -1,7 +1,9 @@
+" For neovim, initialize this file in ~/.config/nvim/init.vim
+
 runtime! debian.vim
 
 syntax on
-set background=dark
+" set background=dark
 
 set tabstop=2
 set shiftwidth=2
