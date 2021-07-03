@@ -5,8 +5,8 @@ runtime! debian.vim
 syntax on
 " set background=dark
 
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set number
 
 " Source a global configuration file if available
